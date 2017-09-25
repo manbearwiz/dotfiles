@@ -1,0 +1,19 @@
+{
+    "editor.fontFamily": "'Fira Code', 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "terminal.integrated.fontFamily": "'Fira Code', 'Courier New', monospace",
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorTheme": "Solarized Dark",
+    "vsicons.projectDetection.autoReload": true,
+    "cSpell.userWords": [
+        "Blockchain",
+        "Brey",
+        "Injectable",
+        "Validators",
+        "coinbase",
+        "gmail",
+        "manbearwiz",
+        "polyfill"
+    ]
+}
