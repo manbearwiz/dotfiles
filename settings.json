@@ -9,11 +9,25 @@
     "cSpell.userWords": [
         "Blockchain",
         "Brey",
+        "Datepicker",
         "Injectable",
+        "Paginator",
+        "Sidenav",
         "Validators",
+        "codelyzer",
         "coinbase",
+        "cryptographically",
+        "ethereum",
         "gmail",
+        "hyperledger",
         "manbearwiz",
+        "monetization",
+        "multipart",
         "polyfill"
-    ]
+    ],
+    "tfvc.location": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\TF.exe",
+    "team.showWelcomeMessage": false,
+    "window.zoomLevel": 0,
+    "python.pythonPath": "C:\\Program Files\\Python36\\python.exe",
+    "git.autofetch": true
 }
